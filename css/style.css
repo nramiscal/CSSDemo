@@ -1,0 +1,26 @@
+/* css resets */
+* {
+    background-color: orange;
+    margin: 0px;
+    padding: 0px;
+    /* outline: 1px solid red; */
+}
+
+p {
+    font-family: sans-serif;
+    font-size: 30px;
+}
+
+.box {
+    height: 100px;
+    width: 100px;
+    background-color: #419ac8;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#green {
+    height: 50px;
+    width: 50px;
+    background-color: #5dc372;
+}
